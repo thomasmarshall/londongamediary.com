@@ -49,6 +49,7 @@ td {
 }
 
 td:first-child {
+  padding-right: 10px;
   width: 80px;
 }
 
