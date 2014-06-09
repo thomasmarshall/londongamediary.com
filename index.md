@@ -16,7 +16,7 @@ Until 29th | [Artcade at Beach London](http://www.beachlondon.co.uk/#!current-sh
 
 ### July
 
-3rd - 14th September| [Digital Revolution at The Barbican](http://www.barbican.org.uk/artgallery/event-detail.asp?ID=15608)
+3rd - 14th September| [Digital Revolution at The Barbican](http://www.barbican.org.uk/digital-revolution)
 
 
 ### September
