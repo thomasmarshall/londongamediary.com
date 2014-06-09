@@ -10,7 +10,7 @@ Until 29th | [Artcade at Beach London](http://www.beachlondon.co.uk/#!current-sh
 9th | [Radius Loading](http://www.radiusfestival.com) at [Loading Bar](http://twitter.com/drinkrelaxplay)
 16th | [Multiclash IV: RETRIGADVENGABUTION](http://www.meetup.com/London-Indie-Game-Developers/events/184313992/) at [Loading Bar](http://twitter.com/drinkrelaxplay)
 19th | [VR Night: Virtual Indie-ality](http://www.meetup.com/London-Indie-Game-Developers/events/185608412/) at [Loading Bar](http://twitter.com/drinkrelaxplay)
-19th - 21st | [Radius Exhibition](http://www.radiusfestival.com/) at White Space
+19th - 21st | [Radius Exhibition](http://www.radiusfestival.com/) at [White Space](http://www.whitespacevenue.com/)
 
 
 ### July
@@ -20,7 +20,7 @@ Until 29th | [Artcade at Beach London](http://www.beachlondon.co.uk/#!current-sh
 
 ### September
 
-25th - 28th | [EGX London](http://www.egxlondon.net/) at Earls Court
+25th - 28th | [EGX London](http://www.egxlondon.net/) at [Earls Court](http://www.eco.co.uk/)
 
 
 ### October
@@ -37,8 +37,8 @@ Until 29th | [Artcade at Beach London](http://www.beachlondon.co.uk/#!current-sh
 
 ### Regulars
 
-First Mondays | London Indies Pub Night at The Crown, Islington
-Tuesdays | Tabletop Tuesdays at [Loading Bar](http://twitter.com/drinkrelaxplay)
--        | [London on Board](http://www.londononboard.com/) at [Various](http://www.meetup.com/LondonOnBoard)
-Third Wednesdays | Clapham Indies Pub Night at The Bank, Clapham
+First Mondays | [London Indies Pub Night](http://www.londonindies.com/) at [The Crown, Islington](http://crownislington.co.uk/)
+Tuesdays | Tabletop Tuesday at [Loading Bar](http://twitter.com/drinkrelaxplay)
+Third Wednesdays | [Clapham Indies Pub Night](http://www.londonindies.com/) at [The Bank, Clapham](http://thebankuk.co.uk/)
 Third Thursdays | One Life Left Videogame Karaoke at [Loading Bar](http://twitter.com/drinkrelaxplay)
+-        | [London on Board](http://www.londononboard.com/) at [Various](http://www.meetup.com/LondonOnBoard)
