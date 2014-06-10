@@ -7,7 +7,7 @@ layout: default
 Until 29th | [Artcade at Beach London](http://www.beachlondon.co.uk/#!current-show-beach/c1w4i)
 6th | [GaME 14 at Imperial College London](https://www.eventbrite.co.uk/e/game-14-tickets-10928510469)
 6th | [Reads Like A Seven](http://www.readslikeaseven.com/Reads_Like_A_Seven.html) at [Loading Bar](http://twitter.com/drinkrelaxplay)
-7th | [GameCraft London 2014 at The Skills Matter Exchange](https://skillsmatter.com/conferences/6244-london-gamecraft-2014#)
+7th | [GameCraft London 2014 at The Skills Matter eXchange](https://skillsmatter.com/conferences/6244-london-gamecraft-2014#)
 9th | [Radius Loading](http://www.radiusfestival.com) at [Loading Bar](http://twitter.com/drinkrelaxplay)
 16th | [Multiclash IV: RETRIGADVENGABUTION](http://www.meetup.com/London-Indie-Game-Developers/events/184313992/) at [Loading Bar](http://twitter.com/drinkrelaxplay)
 19th | [VR Night: Virtual Indie-ality](http://www.meetup.com/London-Indie-Game-Developers/events/185608412/) at [Loading Bar](http://twitter.com/drinkrelaxplay)
@@ -16,7 +16,12 @@ Until 29th | [Artcade at Beach London](http://www.beachlondon.co.uk/#!current-sh
 
 ### July
 
-3rd - 14th September| [Digital Revolution at The Barbican](http://www.barbican.org.uk/digital-revolution)
+3rd - 14th September | [Digital Revolution at The Barbican](http://www.barbican.org.uk/digital-revolution)
+
+
+### August
+
+10th | [London GameCraft at The Skills Matter eXchange](https://skillsmatter.com/conferences/1767-london-gamecraft)
 
 
 ### September
