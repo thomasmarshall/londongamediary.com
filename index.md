@@ -19,11 +19,6 @@ Until 29th | [Artcade at Beach London](http://www.beachlondon.co.uk/#!current-sh
 3rd - 14th September | [Digital Revolution at The Barbican](http://www.barbican.org.uk/digital-revolution)
 
 
-### August
-
-10th | [London GameCraft at The Skills Matter eXchange](https://skillsmatter.com/conferences/1767-london-gamecraft)
-
-
 ### September
 
 25th - 28th | [EGX London](http://www.egxlondon.net/) at [Earls Court](http://www.eco.co.uk/)
