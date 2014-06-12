@@ -17,6 +17,8 @@ Until 29th | [Artcade at Beach London](http://www.beachlondon.co.uk/#!current-sh
 ### July
 
 3rd - 14th September | [Digital Revolution at The Barbican](http://www.barbican.org.uk/digital-revolution)
+4th | [Feral Vector](http://feral-vector.com/) at [The Crypt on the Green](http://www.cryptonthegreen.com/)
+5th - 6th | [The Great British Summer Game Jam](https://www.eventbrite.com/e/the-great-british-summer-game-jam-with-mind-candy-and-autodesk-tickets-11322502911) at [Mind Candy](http://mindcandy.com/)
 
 
 ### September
