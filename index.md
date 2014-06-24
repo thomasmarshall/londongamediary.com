@@ -23,6 +23,7 @@ Until 29th | [Artcade at Beach London](http://www.beachlondon.co.uk/#!current-sh
 
 ### September
 
+10th | [2014 Women in Games Conference](http://www.eventbrite.co.uk/e/european-women-in-games-conference-2013-tickets-3847491952) at [London South Bank University](http://www.lsbu.ac.uk/)
 25th - 28th | [EGX London](http://www.egxlondon.net/) at [Earls Court](http://www.eco.co.uk/)
 
 
