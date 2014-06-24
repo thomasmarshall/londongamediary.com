@@ -12,6 +12,7 @@ Until 29th | [Artcade at Beach London](http://www.beachlondon.co.uk/#!current-sh
 16th | [Multiclash IV: RETRIGADVENGABUTION](http://www.meetup.com/London-Indie-Game-Developers/events/184313992/) at [Loading Bar](http://twitter.com/drinkrelaxplay)
 19th | [VR Night: Virtual Indie-ality](http://www.meetup.com/London-Indie-Game-Developers/events/185608412/) at [Loading Bar](http://twitter.com/drinkrelaxplay)
 19th - 21st | [Radius Exhibition](http://www.radiusfestival.com/) at [White Space](http://www.whitespacevenue.com/)
+29th | [Fission Mailed - The Art of Gaming at The White Building](http://thewhitebuilding.org.uk/whats-on/fission-mailed-the-art-of-gaming/)
 
 
 ### July
