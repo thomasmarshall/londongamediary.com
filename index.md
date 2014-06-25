@@ -17,7 +17,7 @@ Until 29th | [Artcade at Beach London](http://www.beachlondon.co.uk/#!current-sh
 
 ### July
 
-1st | [HTML5 Presentation Night at Mozilla](http://www.meetup.com/London-HTML5-Game-Developers/events/188693262/)
+1st | [HTML5 Presentation Night](http://www.meetup.com/London-HTML5-Game-Developers/events/188693262/) at [Mozilla](https://wiki.mozilla.org/London)
 3rd | [LUUG 30](http://www.meetup.com/London-Unity-Usergroup/events/190705382/) at [London South Bank University](http://www.lsbu.ac.uk/)
 3rd - 14th September | [Digital Revolution at The Barbican](http://www.barbican.org.uk/digital-revolution)
 4th | [Feral Vector](http://feral-vector.com/) at [Crypt on the Green](http://www.cryptonthegreen.com/)
