@@ -12,14 +12,17 @@
   {% endif %}
 
   {% if month != last_month %}
-    {% unless forloop.first %}</table>{% endunless %}
+    {% unless forloop.first %}
+      </table></div>
+    {% endunless %}
 
-    <h3>{{ month }}</h3>
-    <table>
+    <div class="month {{ month | downcase }}">
+      <h3>{{ month }}</h3>
+      <table>
   {% endif %}
 
   {% include event.html event=event %}
 
-  {% if forloop.last %}</table>{% endif %}
+  {% if forloop.last %}</table></div>{% endif %}
   {% assign last_month = month %}
 {% endfor %}

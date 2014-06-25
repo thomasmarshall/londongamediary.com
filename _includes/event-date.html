@@ -11,8 +11,8 @@
 
   {% if now_month != start_month or now_month != end_month %}
     {% include ordinalize.html date=event.starts_at %}
-    {{ start_month }} -
-    {% include ordinalize.html date=event.ends_at %}
+    {{ start_month }}<br>
+    - {% include ordinalize.html date=event.ends_at %}
     {{ end_month }}
   {% else %}
     {% include ordinalize.html date=event.starts_at %} -

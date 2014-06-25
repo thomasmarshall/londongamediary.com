@@ -2,13 +2,20 @@
 
 body {
   margin: 4em auto;
-  width: 480px;
+  width: 540px;
 }
 
 #header,
 #footer,
 #main {
   margin: 3em auto;
+}
+
+
+/* Color */
+
+html {
+  background: #eee;
 }
 
 
@@ -20,6 +27,12 @@ body {
 
 h2, h3 {
   font-size: 1em;
+}
+
+h3 {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1px;
 }
 
 
@@ -39,22 +52,41 @@ table {
 
   border-spacing: 0;
   border-collapse: separate;
-  border-bottom: 1px solid black;
 }
 
 td {
-  border-top: 1px solid #000;
+  border-top: 1px solid #ccc;
   padding: 6px 0;
   vertical-align: top;
 }
 
 td:first-child {
+  border-right: 1px solid #ccc;
   padding-right: 10px;
   width: 80px;
+
+  text-align: right;
+}
+
+td:last-child {
+  padding-left: 10px;
 }
 
 td > *:first-child { margin-top: 0; }
 td > *:last-child { margin-bottom: 0; }
+
+tr:first-child td {
+  border-top: 0;
+}
+
+.month { margin: 20px -20px; }
+.month h3 { margin-top: 0; }
+.month table { margin-bottom: 0; }
+
+.month {
+  background: white;
+  padding: 20px;
+}
 
 
 /* Responsive */
