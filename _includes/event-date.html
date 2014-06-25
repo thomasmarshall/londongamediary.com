@@ -9,16 +9,18 @@
   {% assign start_month = event.starts_at | date: "%b" %}
   {% assign end_month = event.ends_at | date: "%b" %}
 
-  {% if now_month != start_month or now_month != end_month %}
-    {% include ordinalize.html date=event.starts_at %}
-    {{ start_month }}<br>
-    - {% include ordinalize.html date=event.ends_at %}
-    {{ end_month }}
-  {% else %}
-    {% include ordinalize.html date=event.starts_at %} -
-    {% include ordinalize.html date=event.ends_at %}
-  {% endif %}
+  <p>
+    {% if now_month != start_month or now_month != end_month %}
+      {% include ordinalize.html date=event.starts_at %}
+      {{ start_month }}<br>
+      - {% include ordinalize.html date=event.ends_at %}
+      {{ end_month }}
+    {% else %}
+      {% include ordinalize.html date=event.starts_at %} -
+      {% include ordinalize.html date=event.ends_at %}
+    {% endif %}
+  </p>
 
 {% else %}
-  {% include ordinalize.html date=event.date %}
+  <p>{% include ordinalize.html date=event.date %}</p>
 {% endif %}

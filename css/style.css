@@ -88,6 +88,9 @@ tr:first-child td {
   padding: 20px;
 }
 
+.old p { opacity: 0.35; }
+.old a { color: black; }
+
 
 /* Responsive */
 

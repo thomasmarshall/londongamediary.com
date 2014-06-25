@@ -1,4 +1,12 @@
-<tr>
+{% assign event = include.event %}
+
+{% if event.ends_at %}
+  {% assign date = event.ends_at %}
+{% else %}
+  {% assign date = event.date %}
+{% endif %}
+
+<tr data-date="{{ date }}">
   <td>{% include event-date.html event=include.event %}</td>
   <td>{% include event-description.html event=include.event %}</td>
 </tr>
