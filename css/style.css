@@ -53,6 +53,9 @@ td:first-child {
   width: 80px;
 }
 
+td > *:first-child { margin-top: 0; }
+td > *:last-child { margin-bottom: 0; }
+
 
 /* Responsive */
 

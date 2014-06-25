@@ -1,0 +1,25 @@
+{% for event in include.events %}
+  {% if event.recurring %}
+    {% assign month = "Regulars" %}
+  {% else %}
+    {% if event.starts_at %}
+      {% assign date = event.starts_at %}
+    {% else %}
+      {% assign date = event.date %}
+    {% endif %}
+
+    {% assign month = date | date: "%B" %}
+  {% endif %}
+
+  {% if month != last_month %}
+    {% unless forloop.first %}</table>{% endunless %}
+
+    <h3>{{ month }}</h3>
+    <table>
+  {% endif %}
+
+  {% include event.html event=event %}
+
+  {% if forloop.last %}</table>{% endif %}
+  {% assign last_month = month %}
+{% endfor %}
