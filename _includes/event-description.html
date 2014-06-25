@@ -1,0 +1,6 @@
+{% capture description %}
+  {% if event.link %}[{{ event.title }}]({{ event.link }}){% else %}{{ event.title }}{% endif %}
+  {% if event.location %} at {{ event.location }}{% endif %}
+{% endcapture %}
+
+{{ description | strip_newlines | remove: "  " | markdownify }}
