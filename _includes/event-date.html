@@ -1,0 +1,24 @@
+{% assign event = include.event %}
+
+{% if event.custom_date %}
+  {{ event.custom_date | markdownify }}
+{% elsif event.recurring %}
+  {{ event.recurring | markdownify }}
+{% elsif include.event.starts_at %}
+  {% assign now_month = date | date:  "%b" %}
+  {% assign start_month = event.starts_at | date: "%b" %}
+  {% assign end_month = event.ends_at | date: "%b" %}
+
+  {% if now_month != start_month or now_month != end_month %}
+    {% include ordinalize.html date=event.starts_at %}
+    {{ start_month }} -
+    {% include ordinalize.html date=event.ends_at %}
+    {{ end_month }}
+  {% else %}
+    {% include ordinalize.html date=event.starts_at %} -
+    {% include ordinalize.html date=event.ends_at %}
+  {% endif %}
+
+{% else %}
+  {% include ordinalize.html date=event.date %}
+{% endif %}
