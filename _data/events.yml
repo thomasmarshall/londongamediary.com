@@ -2,7 +2,8 @@
 
 - title: "Artcade at Beach London"
   link: "http://www.beachlondon.co.uk/#!current-show-beach/c1w4i"
-  date: 2014-06-01
+  starts_at: 2014-06-01
+  ends_at: 2014-06-29
   custom_date: "Until 29th"
 
 - title: "GaME 14 at Imperial College London"
