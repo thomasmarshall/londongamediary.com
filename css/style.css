@@ -97,6 +97,10 @@ tr:first-child td {
 .old p { opacity: 0.35; }
 .old a { color: black; }
 
+.today {
+  background: lightyellow;
+}
+
 
 /* Responsive */
 
