@@ -6,7 +6,9 @@
   {% assign date = event.date %}
 {% endif %}
 
-<tr data-date="{{ date }}">
+<tr data-date="{{ date }}"
+  {% if event.starts_at %} data-start="{{ event.starts_at }}"{% endif %}
+  {% if event.ends_at %} data-end="{{ event.ends_at }}"{% endif %}>
   <td>{% include event-date.html event=include.event %}</td>
   <td>{% include event-description.html event=include.event %}</td>
 </tr>
