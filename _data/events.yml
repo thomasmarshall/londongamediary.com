@@ -71,6 +71,11 @@
   location: "[Loading Bar](http://twitter.com/drinkrelaxplay)"
   date: 2014-07-21
   
+- title: "One Life Left Video Game Karaoke"
+  link: "http://www.onelifeleft.com/"
+  location: "[Loading Bar](http://twitter.com/drinkrelaxplay)"
+  date: 2014-07-23
+  
 - title: "McNeil & Pamphilon Go 8-Bit!"
   link: "http://www.go8bit.com/"
   location: "[Wenlock & Essex](http://www.wenlockandessex.com/)"
@@ -169,10 +174,6 @@
   link: "http://www.londonindies.com/"
   location: "[The Bank, Clapham](http://thebankuk.co.uk/)"
   recurring: "Third Wednesdays"
-
-- title: "One Life Left Videogame Karaoke"
-  location: "[Loading Bar](http://twitter.com/drinkrelaxplay)"
-  recurring: "Third Thursdays"
 
 - title: "London on Board"
   link: "http://www.londononboard.com/"
