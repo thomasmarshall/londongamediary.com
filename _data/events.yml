@@ -98,7 +98,7 @@
   location: "[The Ray Dolby Lounge](http://workarea-www.dolby.com/gb/en/professional/service/cinema/ray-dolby-theatre.html)"
   date: 2014-07-29
   
-- title: "The King of Kong Screening"
+- title: "The King of Kong screening"
   link: "http://documentaryclub.co.uk/kingofkong/"
   location: "[Shortwave Cinema](http://shortwavecinema.com/Shortwave.dll/Home)"
   date: 2014-07-30
@@ -117,6 +117,16 @@
   location: "[The Princess Anne Theatre](http://www.bafta.org/venue-hire/rooms/the-princess-anne-theatre,1965,BA.html)"
   date: 2014-08-05
   
+- title: "Reztron presents... A Japanese Retrotainment"
+  link: "https://www.eventbrite.co.uk/e/segasushisake-karaoke-tickets-12382226573?ref=ecal"
+  location: "[Matsuri St James](http://www.matsuri-restaurant.com/)"
+  date: 2014-08-06
+  
+- title: "LUUG 31"
+  link: "http://www.meetup.com/London-Unity-Usergroup/events/196570232/"
+  location: "[University of Greenwich](http://www2.gre.ac.uk/)"
+  date: 2014-08-07
+  
 - title: "Joypad presents: SUPER WAREHOUSE GAMING PARTY IV"
   link: "http://ovalspace.co.uk/events/view/joypad-presents-super-warehouse-gaming-party-iv/"
   location: "[The Pickle Factory](http://www.ovalspace.co.uk/about/the-venues/pickle-factory/)"
@@ -134,6 +144,11 @@
   link: "http://www.womeningamesjobs.com/?page_id=841"
   location: "[London South Bank University](http://www.lsbu.ac.uk/)"
   date: 2014-09-10
+  
+- title: "The Untied Unity3D Conference"
+  link: "https://www.eventbrite.co.uk/e/the-untied-unity3d-conference-tickets-12369019069"
+  location: "[Ukie](http://ukie.org.uk/)"
+  date: 2014-09-18
   
 - title: "DICE Europe 2014"
   link: "http://www.diceeurope.org/"
