@@ -122,7 +122,6 @@
   location: "[Loading Bar](http://barscenario.co.uk/)"
   date: 2014-08-04
 
-
 - title: "BAFTA Games Showcase: Bedlam"
   link: "https://bafta.ticketsolve.com/shows/873518446/events?show_id=873518446"
   location: "[The Princess Anne Theatre](http://www.bafta.org/venue-hire/rooms/the-princess-anne-theatre,1965,BA.html)"
@@ -146,6 +145,11 @@
 - title: "Joypad presents: SUPER WAREHOUSE GAMING PARTY IV"
   link: "http://ovalspace.co.uk/events/view/joypad-presents-super-warehouse-gaming-party-iv/"
   location: "[The Pickle Factory](http://www.ovalspace.co.uk/about/the-venues/pickle-factory/)"
+  date: 2014-08-09
+  
+- title: "µChip"
+  link: "http://www.facebook.com/events/1444869292445996/"
+  location: "[Loading Bar](http://barscenario.co.uk/)"
   date: 2014-08-09
   
 - title: "One Life Left Video Game Karaoke"
