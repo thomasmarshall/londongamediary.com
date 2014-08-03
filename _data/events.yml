@@ -2,15 +2,16 @@
 
 - title: "Digital Revolution at The Barbican"
   link: "http://www.barbican.org.uk/digital-revolution"
-  starts_at: 2014-07-03
+  starts_at: 2014-08-01
   ends_at: 2014-09-14
-  date: 2014-08-01
+  custom_date: "Until 9th Sept"
   
 - title: "Heist"
   link: "http://heistlive.com/"
   location: "[Theatre Delicatessen Marylebone](http://danedwardball.wix.com/marylebone-gardens#!about/c2414)"
-  starts_at: 2014-07-21
+  starts_at: 2014-08-01
   ends_at: 2014-08-23
+  custom_date: "Until 23rd"
 
 - title: "The Game Jar Picnic 2014"
   link: "https://www.facebook.com/events/1432826166978318/?source=1"
