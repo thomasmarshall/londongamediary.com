@@ -112,6 +112,11 @@
 
 #October  
 
+- title: "McNeil & Pamphilon Go 8-Bit!"
+  link: "http://www.wegottickets.com/event/283333"
+  location: "[Backyard Comedy Club](http://www.backyardcomedyclub.co.uk/)"
+  date: 2014-10-05
+
 - title: "2.8 Hours Later"
   link: "http://2.8hourslater.com/"
   starts_at: 2014-10-16
@@ -143,11 +148,24 @@
   link: "http://www.eventimapollo.com/events/detail/video-games-live"
   location: "[Eventim Apollo](http://www.eventimapollo.com/)"
   date: 2014-11-02
+  
+- title: "McNeil & Pamphilon Go 8-Bit!"
+  link: "http://www.wegottickets.com/event/283335"
+  location: "[Backyard Comedy Club](http://www.backyardcomedyclub.co.uk/)"
+  date: 2014-11-16
 
 - title: "London Games Conference 2014"
   link: "http://www.londongamesconference.com/"
   location: "[1 Wimpole Street](http://www.1wimpolestreet.co.uk/)"
   date: 2014-11-19
+
+
+# December
+
+- title: "McNeil & Pamphilon Go 8-Bit!"
+  link: "http://www.wegottickets.com/event/2833375"
+  location: "[Backyard Comedy Club](http://www.backyardcomedyclub.co.uk/)"
+  date: 2014-12-14
 
 
 # Regulars
