@@ -1,87 +1,24 @@
-# August
+# September
+
+- title: "Rolling Eye Game Jam"
+  link: "https://rollingeye.eventbrite.co.uk/"
+  location: "[Scenario](http://barscenario.co.uk/)"
+  starts_at: 2014-09-01
+  ends_at: 2014-09-06
+  custom_date: "Until 6th September"
 
 - title: "Digital Revolution at The Barbican"
   link: "http://www.barbican.org.uk/digital-revolution"
-  starts_at: 2014-08-01
+  starts_at: 2014-09-01
   ends_at: 2014-09-14
   custom_date: "Until 14th September"
   
 - title: "Heist"
   link: "http://heistlive.com/"
   location: "[Theatre Delicatessen Marylebone](http://danedwardball.wix.com/marylebone-gardens#!about/c2414)"
-  starts_at: 2014-08-01
-  ends_at: 2014-08-23
+  starts_at: 2014-09-01
+  ends_at: 2014-09-20
   custom_date: "Until 20th September"
-
-- title: "The Game Jar Picnic 2014"
-  link: "https://www.facebook.com/events/1432826166978318/?source=1"
-  location: "[Hyde Park](http://www.royalparks.org.uk/parks/hyde-park)"
-  date: 2014-08-02
-
-- title: "The Lost Room"
-  link: "http://www.greenwichtheatre.org.uk/index.php?option=com_content&view=article&id=1585:the-lost-room&catid=7:playingnow&Itemid=1"
-  location: "[Greenwich Theatre](http://www.greenwichtheatre.org.uk/)"
-  starts_at: 2014-08-03
-  ends_at: 2014-08-04
-  
-- title: "Playing with Yourself"
-  link: "https://www.eventbrite.co.uk/e/playing-with-yourself-tickets-12331591121"
-  location: "[Loading Bar](http://barscenario.co.uk/)"
-  date: 2014-08-04
-
-- title: "BAFTA Games Showcase: Bedlam"
-  link: "https://bafta.ticketsolve.com/shows/873518446/events?show_id=873518446"
-  location: "[The Princess Anne Theatre](http://www.bafta.org/venue-hire/rooms/the-princess-anne-theatre,1965,BA.html)"
-  date: 2014-08-05
-  
-- title: "REZtron presents... A Japanese Retrotainment"
-  link: "https://www.eventbrite.co.uk/e/segasushisake-karaoke-tickets-12382226573?ref=ecal"
-  location: "[Matsuri St James](http://www.matsuri-restaurant.com/)"
-  date: 2014-08-06
-  
-- title: "GamerDisco - Retro Rampage"
-  link: "http://www.facebook.com/events/296484583856205/"
-  location: "[The Book Club](http://www.wearetbc.com/)"
-  date: 2014-08-06
-  
-- title: "LUUG 31"
-  link: "http://www.meetup.com/London-Unity-Usergroup/events/196570232/"
-  location: "[University of Greenwich](http://www2.gre.ac.uk/)"
-  date: 2014-08-07
-  
-- title: "Joypad presents: SUPER WAREHOUSE GAMING PARTY IV"
-  link: "http://ovalspace.co.uk/events/view/joypad-presents-super-warehouse-gaming-party-iv/"
-  location: "[The Pickle Factory](http://www.ovalspace.co.uk/about/the-venues/pickle-factory/)"
-  date: 2014-08-09
-  
-- title: "µChip"
-  link: "http://www.facebook.com/events/1444869292445996/"
-  location: "[Loading Bar](http://barscenario.co.uk/)"
-  date: 2014-08-09
-  
-- title: "REZtron presents... Blue Skies and Palm Trees..."
-  link: "https://www.eventbrite.co.uk/e/sega-thirst-dayblue-skies-and-palm-trees-registration-12611977765?ref=ecal"
-  location: "[The Hoxton Pony](http://www.thehoxtonpony.com/)"
-  date: 2014-08-21
-  
-- title: "One Life Left Video Game Karaoke"
-  link: "https://www.facebook.com/events/551123111659617/"
-  location: "[Loading Bar](http://barscenario.co.uk/)"
-  date: 2014-08-21
-  
-- title: "VR in a Bar"
-  link: "http://www.eventbrite.co.uk/e/vr-in-a-bar-again-tickets-12445730515"
-  location: "[Loading Bar](http://barscenario.co.uk/)"
-  date: 2014-08-25
-  
-- title: "Rolling Eye Game Jam"
-  link: "https://rollingeye.eventbrite.co.uk/"
-  location: "[Scenario](http://barscenario.co.uk/)"
-  starts_at: 2014-08-31
-  ends_at: 2014-09-06
-
-
-# September
 
 - title: "GamerDisco - High Score Heaven"
   link: "https://www.facebook.com/events/263944337129687/"
@@ -111,6 +48,11 @@
 - title: "The Untied Unity3D Conference"
   link: "https://www.eventbrite.co.uk/e/the-untied-unity3d-conference-tickets-12369019069"
   location: "[Ukie](http://ukie.org.uk/)"
+  date: 2014-09-18
+  
+- title: "One Life Left's #THIRDSDAY #5"
+  link: "https://www.facebook.com/events/1458589364418194/?fref=ts"
+  location: "[Loading Bar](http://barscenario.co.uk/)"
   date: 2014-09-18
   
 - title: "VideoBrains"
