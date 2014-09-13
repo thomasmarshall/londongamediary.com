@@ -55,6 +55,11 @@
   location: "[Loading Bar](http://barscenario.co.uk/)"
   date: 2014-09-18
   
+- title: "TIGA 2014 Smartphone & Tablet Games Conference"
+  link: "http://www.tiga.org/events/tigas-events/tiga-smartphone-and-tablet-games-conference-2014"
+  location: "[IDEA London](http://www.idea-london.co.uk/)"
+  date: 2014-09-18
+  
 - title: "Quinns' Cool Netrunner Tournament"
   link: "https://www.eventbrite.com/e/quinns-cool-netrunner-tournament-tickets-12893206929"
   location: "[Loading Bar](http://barscenario.co.uk/)"
@@ -87,6 +92,11 @@
   starts_at: 2014-09-25
   ends_at: 2014-09-28
   
+- title: "LUUG 32"
+  link: "http://www.meetup.com/London-Unity-Usergroup/events/206876582/"
+  location: "[University of Westminster](http://www.westminster.ac.uk/)"
+  date: 2014-09-07
+  
 - title: "rePLAY: Symphony of Heroes"
   link: "http://www.replay-symphony.com/concert"
   location: "[The SSE Arena](http://www.ssearena.co.uk/events/detail/replay-symphony-of-heroes)"
@@ -109,11 +119,24 @@
   link: "http://www.wegottickets.com/event/283333"
   location: "[Backyard Comedy Club](http://www.backyardcomedyclub.co.uk/)"
   date: 2014-10-05
+  
+- title: "REZtron presents... #SEGASunday"
+  link: "https://www.eventbrite.co.uk/e/segasunday-beersretrogames-karaoke-in-an-elevator-tickets-12890009365"
+  location: "[Aquum](http://www.aquum.co.uk/)"
+  date: 2014-10-05
+  
+- title: "LUUG 33"
+  date: 2014-10-07
 
 - title: "2.8 Hours Later"
   link: "http://2.8hourslater.com/"
   starts_at: 2014-10-16
   ends_at: 2014-10-18
+  
+- title: "VideoBrains October: What Scares You?"
+  link: "http://www.eventbrite.co.uk/e/videobrains-october-what-scares-you-tickets-13036318981"
+  location: "[Meltdown London](https://www.facebook.com/MeltdownLondon)"
+  date: 2014-10-21
 
 - title: "2.8 Hours Later"
   link: "http://2.8hourslater.com/"
