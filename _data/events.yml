@@ -64,17 +64,17 @@
   location: "[Loading Bar](http://twitter.com/drinkrelaxplay)"
   date: 2014-11-24
   
-- title: "Subject specific games"
-  link: "http://www.meetup.com/The-London-Educational-Games-Meetup-Group/events/216544692/"
-  location: "[Ukie](http://ukie.org.uk/)"
-  date: 2014-11-26
-
 - title: "London GameCraft 2014 Part Deux"
   link: "https://skillsmatter.com/conferences/6610-london-gamecraft-2014-part-deux"
   location: "[The Skills Matter eXchange](https://skillsmatter.com/conferences/6610-london-gamecraft-2014-part-deux#venue)"
   date: 2014-11-29
 
 # December
+
+- title: "LEGup Christmas meetup: subject specific games"
+  link: "http://www.meetup.com/The-London-Educational-Games-Meetup-Group/events/216544692/"
+  location: "[Ukie](http://ukie.org.uk/)"
+  date: 2014-12-10
 
 - title: "LUUG 35"
   link: "http://www.meetup.com/London-Unity-Usergroup/events/210680082/"
