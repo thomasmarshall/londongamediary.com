@@ -46,7 +46,7 @@
   
 - title: "Gameplay Scenario #2"
   link: "https://www.eventbrite.co.uk/e/gameplay-scenario-2-tickets-14027256903?ref=ebapi"
-  location: "[Loading Bar](http://twitter.com/drinkrelaxplay)"
+  location: "[Loading Bar](http://www.drinkrelaxplay.co.uk/)"
   date: 2014-11-17
   
 - title: "Beta Public 3"
@@ -61,7 +61,7 @@
   
 - title: "One Life Left's #THIRDSDAY #7"
   link: "https://www.facebook.com/events/718063778278203/?source=1"
-  location: "[Loading Bar](http://twitter.com/drinkrelaxplay)"
+  location: "[Loading Bar](http://www.drinkrelaxplay.co.uk/)"
   date: 2014-11-19
   
 - title: "GamerDisco - November Party"
@@ -76,7 +76,12 @@
   
 - title: "VR in a Bar"
   link: "https://www.eventbrite.co.uk/e/vr-in-a-bar-tickets-14027413371?ref=ebapi"
-  location: "[Loading Bar](http://twitter.com/drinkrelaxplay)"
+  location: "[Loading Bar](http://www.drinkrelaxplay.co.uk/)"
+  date: 2014-11-24
+  
+- title: "BFI Video Games Day"
+  link: "https://www.eventbrite.co.uk/e/bfi-video-games-day-tickets-13877649423"
+  location: "[BFI Southbank](https://whatson.bfi.org.uk/Online/default.asp)"
   date: 2014-11-24
   
 - title: "London GameCraft 2014 Part Deux"
@@ -122,7 +127,7 @@
   recurring: "First Mondays"
 
 - title: "Tabletop Tuesday"
-  location: "[Loading Bar](http://twitter.com/drinkrelaxplay)"
+  location: "[Loading Bar](http://www.drinkrelaxplay.co.uk/)"
   recurring: "Tuesdays"
 
 - title: "Clapham Indies Pub Night"
