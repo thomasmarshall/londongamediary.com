@@ -35,6 +35,11 @@
   location: "[ExCeL London](http://www.excel-london.co.uk/)"
   starts_at: 2015-02-03
   ends_at: 2015-02-05
+  
+- title: "VideoBrains February: All's Fair in Love and Video Games"
+  link: "http://www.videobrains.co.uk/tickets/"
+  location: "[Meltdown](https://www.facebook.com/MeltdownLondon)"
+  date: 2015-02-23
 
 # March 
 
@@ -43,6 +48,11 @@
   location: "[Tobacco Dock](http://tobaccodocklondon.com/)"
   starts_at: 2015-03-12
   ends_at: 2015-03-14
+  
+- title: "VideoBrains February: Non Player Characters"
+  link: "http://www.videobrains.co.uk/tickets/"
+  location: "[Meltdown](https://www.facebook.com/MeltdownLondon)"
+  date: 2015-03-30
   
 # Regulars
 
