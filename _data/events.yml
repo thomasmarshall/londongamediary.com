@@ -1,124 +1,49 @@
-# November
+# January
 
-- title: "2.8 Hours Later"
-  link: "http://2.8hourslater.com/"
-  date: 2014-11-01
-  
-- title: "Distant Worlds: Music from Final Fantasy"
-  link: "http://www.royalalberthall.com/tickets/distant-worlds/default.aspx"
-  location: "[Royal Albert Hall](http://www.royalalberthall.com/default.aspx)"
-  date: 2014-11-01
-  
-- title: "Video Games Live: Bonus Round"
-  link: "http://www.eventimapollo.com/events/detail/video-games-live"
-  location: "[Eventim Apollo](http://www.eventimapollo.com/)"
-  date: 2014-11-02
-  
-- title: "BAFTA Games Showcase: Fable Legends"
-  link: "https://bafta.ticketsolve.com/shows/873522944"
-  location: "[The Princess Anne Theatre](http://www.bafta.org/venue-hire/rooms/the-princess-anne-theatre,1965,BA.html)"
-  date: 2014-11-04
-  
-- title: "LUUG 34"
-  link: "http://www.meetup.com/London-Unity-Usergroup/events/210680002/"
-  location: "[London South Bank University](http://www.lsbu.ac.uk/)"
-  date: 2014-11-05
-  
-- title: "PROCJAM 2014"
-  link: "https://www.eventbrite.co.uk/e/procjam-2014-opening-day-tickets-13111586107"
-  location: "[Goldsmiths College](http://www.gold.ac.uk/)"
-  date: 2014-11-08
-  
-- title: "REZtron presents... #SEGAloha"
-  link: "https://www.eventbrite.co.uk/e/segaloha-cocktailspalm-trees-and-sega-consoles-tickets-13925091323?ref=ecal"
-  location: "[Kanaloa](http://www.kanaloaclub.com/)"
-  date: 2014-11-12
-  
-- title: "Two can play at that Game"
-  link: "http://thetroubleclub.com/product/two-can-play-at-that-game/"
-  location: "[The Trouble Club](http://thetroubleclub.com/)"
-  date: 2014-11-12
-  
-- title: "McNeil & Pamphilon Go 8-Bit!"
-  link: "http://www.wegottickets.com/event/283335"
-  location: "[Backyard Comedy Club](http://www.backyardcomedyclub.co.uk/)"
-  date: 2014-11-16
-  
-- title: "Gameplay Scenario #2"
-  link: "https://www.eventbrite.co.uk/e/gameplay-scenario-2-tickets-14027256903?ref=ebapi"
-  location: "[Loading Bar](http://www.drinkrelaxplay.co.uk/)"
-  date: 2014-11-17
-  
-- title: "Beta Public 3"
-  link: "http://www.cptheatre.co.uk/show/beta_public_3.php#.VGS5B_msXTp"
-  location: "[Camden People's Theatre](http://www.cptheatre.co.uk/)"
-  date: 2014-11-18
+- title: "Pocket Gamer Connects"
+  link: "http://www.pgconnects.com/london/"
+  location: "[Vinopolis](http://vinopolis.co.uk/)"
+  starts_at: 2015-01-13
+  ends_at: 2015-01-14
 
-- title: "London Games Conference 2014"
-  link: "http://www.londongamesconference.com/"
-  location: "[1 Wimpole Street](http://www.1wimpolestreet.co.uk/)"
-  date: 2014-11-19
+- title: "#VideoGameDemocracy"
+  link: "https://www.eventbrite.co.uk/e/video-game-democracy-boxpark-tickets-15112764686"
+  location: "[Boxpark](http://www.boxpark.co.uk/)"
+  date: 2015-01-16
   
-- title: "One Life Left's #THIRDSDAY #7"
-  link: "https://www.facebook.com/events/718063778278203/?source=1"
-  location: "[Loading Bar](http://www.drinkrelaxplay.co.uk/)"
-  date: 2014-11-19
+- title: "Next-Level Indie Forum"
+  link: "http://www.globalmgf.com/london/nextlevel/"
+  location: "[155 Bishopsgate](http://www.etc155bishopsgate.co.uk/)"
+  starts_at: 2015-01-20
+  ends_at: 2015-01-21
   
-- title: "GamerDisco - November Party"
-  link: "https://www.facebook.com/events/566785373422709/"
-  location: "[The Book Club](http://www.wearetbc.com/)"
-  date: 2014-11-19
+- title: "MGF London"
+  link: "http://www.globalmgf.com/london/"
+  location: "[155 Bishopsgate](http://www.etc155bishopsgate.co.uk/)"
+  starts_at: 2015-01-20
+  ends_at: 2015-01-21
   
-- title: "REZtron presents... A SEGA #Saturnday retrotainment"
-  link: "https://www.eventbrite.co.uk/e/sega-saturnday-retrogamingbeer-elevator-karaoke-tickets-13580033245?ref=ecal"
-  location: "[Aquum](http://www.aquum.co.uk/)"
-  date: 2014-11-22
+- title: "VideoBrains January: Lucky Dip"
+  link: "https://www.eventbrite.co.uk/e/video-game-democracy-boxpark-tickets-15112764686"
+  location: "[Meltdown London](https://www.facebook.com/MeltdownLondon)"
+  date: 2015-01-26
+
+# February 
+
+- title: "ICE Totally Gaming 2015"
+  link: "http://www.icetotallygaming.com/"
+  location: "[ExCeL London](http://www.excel-london.co.uk/)"
+  starts_at: 2015-02-03
+  ends_at: 2015-02-05
+
+# March 
+
+- title: "EGX Rezzed"
+  link: "http://www.egx.net/rezzed/"
+  location: "[Tobacco Dock](http://tobaccodocklondon.com/)"
+  starts_at: 2015-03-12
+  ends_at: 2015-03-14
   
-- title: "VR in a Bar"
-  link: "https://www.eventbrite.co.uk/e/vr-in-a-bar-tickets-14027413371?ref=ebapi"
-  location: "[Loading Bar](http://www.drinkrelaxplay.co.uk/)"
-  date: 2014-11-24
-  
-- title: "BFI Video Games Day"
-  link: "https://www.eventbrite.co.uk/e/bfi-video-games-day-tickets-13877649423"
-  location: "[BFI Southbank](https://whatson.bfi.org.uk/Online/default.asp)"
-  date: 2014-11-26
-  
-- title: "London GameCraft 2014 Part Deux"
-  link: "https://skillsmatter.com/conferences/6610-london-gamecraft-2014-part-deux"
-  location: "[The Skills Matter eXchange](https://skillsmatter.com/conferences/6610-london-gamecraft-2014-part-deux#venue)"
-  date: 2014-11-29
-
-# December
-
-- title: "LEGup Christmas meetup: subject specific games"
-  link: "http://www.meetup.com/The-London-Educational-Games-Meetup-Group/events/216544692/"
-  location: "[Ukie](http://ukie.org.uk/)"
-  date: 2014-12-10
-
-- title: "LUUG 35"
-  link: "http://www.meetup.com/London-Unity-Usergroup/events/210680082/"
-  location: "[University of Greenwich](http://www2.gre.ac.uk/)"
-  date: 2014-12-04
-
-- title: "Ludum Dare 31 - London"
-  link: "http://www.eventbrite.co.uk/e/ludum-dare-31-london-tickets-13154865557"
-  location: "[Google Campus](https://www.campuslondon.com/)"
-  starts_at: 2014-12-05
-  ends_at: 2014-12-08
-  
-- title: "AdventureX 2014"
-  link: "http://www.screen7.co.uk/adventurex/"
-  location: "[London South Bank University](http://www.lsbu.ac.uk/)"
-  starts_at: 2014-12-06
-  ends_at: 2014-12-07
-
-- title: "McNeil & Pamphilon Go 8-Bit!"
-  link: "http://www.wegottickets.com/event/283337"
-  location: "[Backyard Comedy Club](http://www.backyardcomedyclub.co.uk/)"
-  date: 2014-12-14
-
-
 # Regulars
 
 - title: "London Indies Pub Night"
